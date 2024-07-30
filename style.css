@@ -722,12 +722,6 @@ span{
         padding:10px 10px 0px 10px;
     }
 
-    .b1 img:hover{
-        scale: 1.0;
-    }
-    .b2 img:hover{
-        scale: 1.0;
-    }
 
     .about-img img{
         width: 60vw;
@@ -772,23 +766,17 @@ span{
         flex-direction: row;
     }
     .b1 img{
-        height: 5rem;
-        width: 5rem;
+        height: auto;
+        width: auto;
         padding:10px 10px 0px 10px;
     }
 
     .b2 img{
-        height: 5rem;
-        width: 5rem;
+        height: auto;
+        width: auto;
         padding:10px 10px 0px 10px;
     }
 
-    .b1 img:hover{
-        scale: 1.0;
-    }
-    .b2 img:hover{
-        scale: 1.0;
-    }
 }
 
 @media (max-width: 450px){
@@ -810,16 +798,16 @@ span{
         width: 100%;
     }
     .b1 img{
-        height: 5rem;
-        width: 5rem;
-        padding:5%;
+        height: auto;
+        width: auto;
+        padding:auto;
 
     }
     
     .b2 img{
-        height: 5rem;
-        width: 5rem;
-        padding:5%;
+        height: auto;
+        width: auto;
+        padding:auto;
     }
 
 }
