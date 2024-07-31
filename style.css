@@ -789,6 +789,10 @@ span{
         font-size: 50%;
     }
 
+    .home{
+        margin-top: -10%;
+    }
+
     .contact form .input-box input{
         width: 100%;
     }
@@ -811,6 +815,10 @@ span{
         margin: 1rem;
         transition: all 0.3s;
         border-radius: 1.2rem;
+    }
+
+    .about{
+        margin-top: -60%;
     }
 
     .all-products, .products{
